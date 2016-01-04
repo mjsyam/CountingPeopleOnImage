@@ -1,0 +1,2 @@
+Morphologi.BoundaryDetectionAsli
+Morphologi.BinaryImageBoundary

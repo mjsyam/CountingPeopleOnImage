@@ -1,0 +1,2 @@
+Morphologi.BinaryImage
+Morphologi.CariPerimeter
