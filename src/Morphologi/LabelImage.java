@@ -21,7 +21,7 @@ public class LabelImage {
     }
     
     // Data Inputan(img) berupa citra/bilangan biner [0 1] 
-    public static ArrayList labelImage(int[][] img) {
+    public static ArrayList labelingPixel(int[][] img) {
         int nrow = img.length;
         int ncol = img[0].length;
         int lab = 1;
